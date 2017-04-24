@@ -1,0 +1,6 @@
+framework module Pods_WZBNumberScrollAnimationView_Tests {
+  umbrella header "Pods-WZBNumberScrollAnimationView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

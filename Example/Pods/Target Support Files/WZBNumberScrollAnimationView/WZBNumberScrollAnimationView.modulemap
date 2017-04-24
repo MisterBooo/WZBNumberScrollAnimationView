@@ -1,0 +1,6 @@
+framework module WZBNumberScrollAnimationView {
+  umbrella header "WZBNumberScrollAnimationView-umbrella.h"
+
+  export *
+  module * { export * }
+}

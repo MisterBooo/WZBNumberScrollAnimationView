@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - WZBNumberScrollAnimationView (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - WZBNumberScrollAnimationView (from `../`)
+
+EXTERNAL SOURCES:
+  WZBNumberScrollAnimationView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  WZBNumberScrollAnimationView: 18d5282b3ba6e1c9c07744f2800d365ba66b8fca
+
+PODFILE CHECKSUM: 2cf31d60448584bd8935bf34974b0385d00e5168
+
+COCOAPODS: 1.1.1
