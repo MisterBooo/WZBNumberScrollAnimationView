@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WZBNumberScrollAnimationView_Example' do
+  pod 'WZBNumberScrollAnimationView', :path => '../'
+
+  target 'WZBNumberScrollAnimationView_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
